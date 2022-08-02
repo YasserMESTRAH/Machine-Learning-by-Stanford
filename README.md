@@ -13,9 +13,9 @@ Personally, I enjoyed being a part of this rewarding course authorized by Stanfo
 
 ## <span style="color: Orange;">Contents </span>
 * [Youtube Playlist: Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [Lectures Slides]()
-* [Solution to programming assignment]()
-* [Solution to Quizzes]()
+* [Lectures Slides](https://github.com/YasserMESTRAH/Machine-Learning-by-Stanford/tree/main/Lectures)
+* [Solution to programming assignment](https://github.com/YasserMESTRAH/Machine-Learning-by-Stanford/tree/main/Assignment%20Problem-%20Matlab%20Implementation)
+* [Solution to Quizzes](https://github.com/YasserMESTRAH/Machine-Learning-by-Stanford/tree/main/Quizzes)
 
 ## <span style="color: Orange;">Certificate</span>
 
